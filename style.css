@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+/* OF title */
+#title {
+    margin-top: 25%;
+    font-size: 90px;
+    color: skyblue;
+}
+
+.ml12 {
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+.ml12 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
