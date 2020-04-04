@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.hide {
+    display: none;
+}
+
 /* OF title */
 #title {
     text-align: center;
